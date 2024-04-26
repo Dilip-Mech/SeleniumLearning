@@ -1,0 +1,5 @@
+2024-02-02 12:23:13 ERROR UsingProFileExample:14 - This is a Error Message
+ 2024-02-02 12:23:13 FATAL UsingProFileExample:15 - This is a Fatal Message
+ 2024-02-02 12:23:13 INFO  UsingProFileExample:16 - This is a Info Message
+ 2024-02-02 12:23:13 WARN  UsingProFileExample:17 - This ia a Warning Message
+ 
