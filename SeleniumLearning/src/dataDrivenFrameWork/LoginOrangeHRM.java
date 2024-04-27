@@ -35,6 +35,6 @@ public class LoginOrangeHRM  {
 			/*
 			 * {"dummy","dummy"}, {"Admin","dummy"}, {"dummy","admin123"},
 			 */
-		{"Admin","admin123"}
+		{"Admin","admin1234"}
 	};
 }
